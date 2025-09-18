@@ -3,7 +3,7 @@
 ### 1️⃣ Assignment 1 (Tailwind + Vite)
 
 ```bash
-cd assignment-1
+cd assignment1
 npm install
 npm run dev
 ```
@@ -11,7 +11,7 @@ npm run dev
 ### 1️⃣ Assignment 2 (Tailwind + Vite)
 
 ```bash
-cd assignment-1
+cd assignment2
 npm install
 npm run dev
 ```
